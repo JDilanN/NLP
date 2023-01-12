@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-12T18:16:17.783Z" agent="5.0 (Windows)" version="20.8.3" etag="xRBuNOfAfpfZOWhzmunT" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-12T18:18:06.858Z" agent="5.0 (Windows)" version="20.8.3" etag="F5a4JvwTmyw3yD-X_1V_" type="github">
   <diagram id="RDpuNx_bj0rfVb_ecH5R" name="Página-1">
-    <mxGraphModel dx="5027" dy="2264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2440" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -576,8 +576,8 @@
         </mxCell>
         <mxCell id="ZHMwNc2xsVouACLdSVGA-1076" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=3;fontFamily=Verdana;fontSize=36;fillColor=#9933FF;strokeColor=#9933FF;endWidth=35.75757575757576;endSize=14.903030303030304;width=16;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="550.0000000000005" y="481.25" as="sourcePoint" />
-            <mxPoint x="670" y="483.75" as="targetPoint" />
+            <mxPoint x="550.0000000000005" y="482.5" as="sourcePoint" />
+            <mxPoint x="670" y="485" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZHMwNc2xsVouACLdSVGA-1077" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=3;fontFamily=Verdana;fontSize=36;fillColor=#9933FF;strokeColor=#9933FF;endWidth=35.75757575757576;endSize=14.903030303030304;width=16;" edge="1" parent="1">
@@ -594,8 +594,8 @@
         </mxCell>
         <mxCell id="ZHMwNc2xsVouACLdSVGA-1079" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=3;fontFamily=Verdana;fontSize=36;fillColor=#9933FF;strokeColor=#9933FF;endWidth=35.75757575757576;endSize=14.903030303030304;width=16;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1407.5000000000005" y="477.4999999999999" as="sourcePoint" />
-            <mxPoint x="1527.5" y="479.9999999999999" as="targetPoint" />
+            <mxPoint x="1400.0000000000005" y="477.4999999999999" as="sourcePoint" />
+            <mxPoint x="1520" y="479.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
